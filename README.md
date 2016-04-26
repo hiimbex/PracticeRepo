@@ -14,6 +14,9 @@ Add:
 
 Commit:
   git commit -m "Add your short message here!"
+  
+Status:
+  git status //returns information about the status of your repository
 
 Pull:
   git pull //updates your local repository to the newest commit
